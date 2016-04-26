@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<plugin id="cordova-plugin-queries-schemes" version="0.1.1" xmlns="http://apache.org/cordova/ns/plugins/1.0">
+<plugin id="com.incentfit.plugins.queries-schemes" version="0.1.2" xmlns="http://apache.org/cordova/ns/plugins/1.0">
     <name>App Queries Strings</name>
     <author>Rob Hilgefort (http://rob.hilgefort.me)</author>
     <description>
@@ -14,25 +14,82 @@
     <platform name="ios">
       <config-file target="*-Info.plist" parent="LSApplicationQueriesSchemes">
         <array>
-          <string>fb</string>
-          <string>twitter</string>
-          <string>gplus</string>
-          <string>pintrest</string>
-          <string>instagram</string>
-          <string>youtube</string>
-          <string>vnd.youtube</string>
-          <string>yelp</string>
-          <string>linkedin</string>
-          <string>tumblr</string>
-          <string>whatsapp</string>
-          <string>snapchat</string>
-          <string>comgooglemaps</string>
-          <string>amazon</string>
-          <string>skype</string>
-          <string>googledrive</string>
-          <string>itms-apps</string>
-          <string>tel</string>
-          <string>mailto</string>
+            <string>fitbit</string>
+            <string>jawbone-up</string>
+            <string>aso298903147</string>
+            <string>aso307861852</string>
+            <string>aso292223170</string>
+            <string>mmrun</string>
+            <string>mmwalk</string>
+            <string>moves</string>
+            <string>nikeplus</string>
+            <string>runkeeper</string>
+            <string>strava</string>
+            <string>withings-bd1</string>
+            <string>shinedata</string>
+            <string>gcm-ciq</string>
+            <string>pivotallivingapp</string>
+            <string>micoach</string>
+            <string>MyVitals</string>
+            <string>fb180602188635170</string>
+            <string>comfitconnect</string>
+            <string>striivtiles</string>
+            <string>db-s078hxjgcyi9i2y</string>
+            <string>UASDK9x8nkqyd8n9kv6xhmsmu3q95bgr6yjnh</string>
+            <string>at.runtastic.gpssportapp</string>
+            <string>wxc3fd48f438a59da7</string>
+            <string>fi.polar.polarflow</string>
+            <string>fb301989126552319</string>
+            <string>lumo</string>
+            
+            
+            <string>mindbodyconnect</string>
+            <string>fb731141713593167</string>
+            <string>huamifitWXTSX8J</string>
+            <string>fp-runtastic-runtasticlite</string>
+            <string>pebble-2</string>
+            <string>jawbone-up2</string>
+            
+    		
+    		<string>fb</string>
+    		<string>twitter</string>
+    		<string>gplus</string>
+    		<string>pintrest</string>
+    		<string>instagram</string>
+    		<string>youtube</string>
+    		<string>vnd.youtube</string>
+    		<string>yelp</string>
+    		<string>linkedin</string>
+    		<string>tumblr</string>
+    		<string>whatsapp</string>
+    		<string>snapchat</string>
+    		<string>comgooglemaps</string>
+    		<string>amazon</string>
+    		<string>skype</string>
+    		<string>googledrive</string>
+    		<string>itms-apps</string>
+    		<string>paypal</string>
+    		<string>fbapi</string>
+    		<string>fbapi20130214</string>
+    		<string>fbapi20130410</string>
+    		<string>fbapi20130702</string>
+    		<string>fbapi20131010</string>
+    		<string>fbapi20131219</string>	
+    		<string>fbapi20140410</string>
+    		<string>fbapi20140116</string>
+    		<string>fbapi20150313</string>
+    		<string>fbapi20150629</string>
+    		<string>fbauth</string>
+    		<string>fbauth2</string>
+    		<string>fb-messenger-api20140430</string>
+    		<string>fb-messenger-api</string>
+    		<string>fbshareextension</string>
+            <string>amazon</string>
+            <string>skype</string>
+            <string>googledrive</string>
+            <string>itms-apps</string>
+            <string>tel</string>
+            <string>mailto</string>
         </array>
       </config-file>
     </platform>
